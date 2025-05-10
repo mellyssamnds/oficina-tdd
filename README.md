@@ -2,7 +2,7 @@
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 <aside>
-⚠️ Este repositório é um template feito com alguns exercícios para treinar TDD com NodeJS e Jest.
+⚠️ Este repositório é um template feito com exercícios de demonstração e a resolução do desafio da Oficina de Seleção Aprofunda PretaLab 2025 com Node.js e Jest.
 </aside>
 
 <br>
@@ -23,11 +23,11 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ## `Planejamento`
 
-✓   Farei a apresentação inicial dos conceitos
+✓   Farei a apresentação inicial dos conceitos;
 
-✓		Farei a demonstração dos exemplos de soma e um metodo da fila
+✓	Farei a demonstração dos exemplos de soma e um metodo da fila;
 
-✓		Teremos um tempo para você responder e enviar o link da sua avaliação
+✓	Teremos um tempo para você responder e enviar o link da sua avaliação;
 
 ## `Materiais`
 
@@ -36,22 +36,22 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ## 💻 Demonstração
 ### Soma
-- Recebe dois números inteiros e soma
+- Recebe dois números inteiros e soma;
 
 ### Calculadora
 
-- Recebe dois números inteiros e soma
-- Recebe dois números inteiros e diminui
-- Recebe dois números inteiros e multiplica
-- Recebe dois números inteiros e divide
+- Recebe dois números inteiros e soma;
+- Recebe dois números inteiros e diminui;
+- Recebe dois números inteiros e multiplica;
+- Recebe dois números inteiros e divide;
 
 ## 💻 Desafio
 ### Create Queue
 
-- size() Deve ser capaz de calcular o tamanho da fila
-- add(item) Deve ser capaz de adicionar um item na fila
-- peek() Deve escolher o primeiro item da fila
-- dequeue() Deve remover o primeiro item da fila
+- size() Deve ser capaz de calcular o tamanho da fila;
+- add(item) Deve ser capaz de adicionar um item na fila;
+- peek() Deve escolher o primeiro item da fila;
+- dequeue() Deve remover o primeiro item da fila;
 
 
 <br>
